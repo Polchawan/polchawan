@@ -3,4 +3,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polchawan&hide_progress=true)
 
-[![Polchawan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=polchawan)](https://github.com/Polchawan/github-readme-stats)
+[![Polchawan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=polchawan)](https://github.com/anuraghazra/github-readme-stats)
